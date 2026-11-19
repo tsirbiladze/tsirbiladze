@@ -17,9 +17,5 @@ Over the past year I've focused on AI integration. What I publish here:
 I build these with coding agents that work from written specs. I design, review and test,
 and each README says what has been verified and what hasn't.
 
-Earlier open source: two merged fixes in scandipwa/scandipwa
-([#2624](https://github.com/scandipwa/scandipwa/pull/2624),
-[#2617](https://github.com/scandipwa/scandipwa/pull/2617)).
-
 Open to full-stack roles (remote or Tbilisi) and freelance projects.
 [tsirbiladze.com](https://tsirbiladze.com) · [LinkedIn](https://www.linkedin.com/in/tornike-sirbiladze)
