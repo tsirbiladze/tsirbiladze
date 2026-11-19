@@ -13,8 +13,6 @@ Over the past year I've focused on AI integration. What I publish here:
   Agent skill, CLI and MCP server.
 - **[sitewright](https://github.com/tsirbiladze/sitewright)** is an agent skill that builds
   a personal site from a Next.js template and takes it live on Vercel.
-- **[clear-writing-skills](https://github.com/tsirbiladze/clear-writing-skills)** teaches
-  coding agents to write clear Georgian and English.
 
 I build these with coding agents that work from written specs. I design, review and test,
 and each README says what has been verified and what hasn't.
